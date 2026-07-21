@@ -102,7 +102,7 @@ Here are two of my recent full‑stack study projects:
 
 - **LinkedIn:** [linkedin.com/in/julia-timokhina-8a3801403](https://linkedin.com/in/julia-timokhina-8a3801403)
 - **GitHub:** [github.com/imagineapril](https://github.com/imagineapril) 
-- **Email:** [julia.timokhina604@gmail.com] 
+- **Email:** [julia.timokhina604@gmail.com](julia.timokhina604@gmail.com)
 
 ---
 
